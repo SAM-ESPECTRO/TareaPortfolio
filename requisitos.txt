@@ -1,0 +1,27 @@
+evaluacion - hacer curriculum
+
+imformacion personal
+habilidades
+cursos y talleres
+experiencia laboral
+idiomas => especificar nivel de comprension (y si entiende habla y escritura)
+aptitudes => conocimientos adquiridos de la carrera
+
+
+validaciones formulario
+
+1. cedula => no mayor de 8 digitos no menor de 7 digitos
+2. nombre => solo letras
+3. apellido => solo letras
+4. correo => requeridos 
+5. genero => requeridos
+6. ubicacion =>
+
+nuevos pedidos del profe
+
+- su foto y los items deben ser tratadfos como un navbar(menu de navegacion)
+- modo oscuro (hecho)
+- interfaz de portafolio funcional
+- uso de clases de bootstrap ("nome sirve tenerlo instalado y no usarlo") Responsividad
+- no usar plantillas 
+- ¿porque 

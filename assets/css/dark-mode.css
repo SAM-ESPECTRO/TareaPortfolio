@@ -1,0 +1,25 @@
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+nav{
+    background-color: #aaa;
+}
+.dark-mode .navbar{
+    background-color: #333;
+    color: #fff;
+}
+footer{
+    background-color: #aaa;
+}
+.dark-mode .footer{
+    background-color: #333;
+    color: #fff;
+}
+.formulario{
+    background-color: #aaa;
+}
+.dark-mode .formulario{
+    background-color: #333;
+    color: #fff;
+}
